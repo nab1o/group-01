@@ -1,31 +1,31 @@
 # Group-01 ![Arduino CI](https://github.com/DIT112-V20/group-01/workflows/Arduino%20CI/badge.svg) ![Java CI with Gradle](https://github.com/DIT112-V20/group-01/workflows/Java%20CI%20with%20Gradle/badge.svg)
 
 [1. Project Overview](#project-overview)
-* [What is the idea of our project?](https://github.com/DIT112-V20/group-01#what-is-the-idea-of-our-project)
-* [Why will we make it?](https://github.com/DIT112-V20/group-01#why-will-we-make-it)
-* [How are we going to make it?](https://github.com/DIT112-V20/group-01#how-are-we-going-to-make-it)
+* [What is the idea of our project?](#what-is-the-idea-of-our-project)
+* [Why will we make it?](#why-will-we-make-it)
+* [How are we going to make it?](#how-are-we-going-to-make-it)
 
-[2. Features](https://github.com/DIT112-V20/group-01#features)
-* [Obstacle Avoidance](https://github.com/DIT112-V20/group-01#obstacle-avoidance)
-* [Manual Control](https://github.com/DIT112-V20/group-01#manual-control)
-* [Autonomous Driving](https://github.com/DIT112-V20/group-01#autonomous-driving)
-* [Display Covered Distance ](https://github.com/DIT112-V20/group-01#display-covered-distance)
+[2. Features](#features)
+* [Obstacle Avoidance](#obstacle-avoidance)
+* [Manual Control](#manual-control)
+* [Autonomous Driving](#autonomous-driving)
+* [Display Covered Distance ](#display-covered-distance)
 
-[3. Resources](https://github.com/DIT112-V20/group-01#resources)
-* [Software](https://github.com/DIT112-V20/group-01#software)
-* [Hardware](https://github.com/DIT112-V20/group-01#hardware)
+[3. Resources](#resources)
+* [Software](#software)
+* [Hardware](#hardware)
 
-[4. Installation](https://github.com/DIT112-V20/group-01#installation)
-* [Import the code](https://github.com/DIT112-V20/group-01#import-the-code)
-* [Setup the car](https://github.com/DIT112-V20/group-01#setup-the-car)
-* [Setup the app](https://github.com/DIT112-V20/group-01#setup-the-app)
-* [Establish Connection](https://github.com/DIT112-V20/group-01#establish-connection)
+[4. Installation](#installation)
+* [Import the code](#import-the-code)
+* [Setup the car](#setup-the-car)
+* [Setup the app](#setup-the-app)
+* [Establish Connection](#establish-connection)
 
-[5. User Manual](https://github.com/DIT112-V20/group-01#user-manual)
+[5. User Manual](#user-manual)
 
-[6. Product Demo](https://github.com/DIT112-V20/group-01#product-demo)
+[6. Product Demo](#product-demo)
 
-[7. Team](https://github.com/DIT112-V20/group-01#team)
+[7. Team](#team)
 # **Project Overview**
 ## What is the idea of our project?
 Our main idea of the project is a car with capabilities of autonomously driving and detecting obstacles around.
